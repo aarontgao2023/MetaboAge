@@ -1,8 +1,8 @@
 # Blood metabolic ages are associated with the progression of central biomarkers of Alzheimer’s disease
 Pradeep Varathan Pugalenthi<sup>1</sup>, Tianchuan Gao<sup>1</sup>, Yen-ning Huang<sup>2</sup>, Matthias Arnold3<sup>3,4</sup>, Rima Kaddurah-Daouk<sup>3,5,6</sup>, Andrew J Saykin<sup>2</sup>, Jingwen Yan<sup>1,2* </sup>, Kwangsik Nho<sup>2* </sup>
 <br>
-<sup>1 </sup> Department of Biomedical Engineering and Informatics, Indiana University Indianapolis, 535 W Michigan St, Indianapolis, 46202, Indiana, United States.<br>
-<sup>2 </sup> Department of Radiology and Imaging Sciences, Indiana UniversitySchool of Medicine, 550 University Blvd, Indianapolis, 46202, Indiana, United States.<br>
+<sup>1 </sup> Department of Biomedical Engineering and Informatics, Indiana University Indianapolis, Indianapolis, IN, USA<br>
+<sup>2 </sup> Department of Radiology and Imaging Sciences, Indiana University School of Medicine, Indianapolis, IN, USA <br>
 <sup>3 </sup> Department of Psychiatry and Behavioral Sciences, Duke University, Durham, NC, USA<br>
 <sup>4 </sup> Institute of Computational Biology, Helmholtz Zentrum München, German Research Center for Environmental Health, Neuherberg, Germany<br>
 <sup>5 </sup> Duke Institute of Brain Sciences, Duke University, Durham, NC, USA<br>
@@ -23,3 +23,6 @@ Alzheimer's disease (AD) is characterized by the accumulation of amyloid plaques
 
 
 ## Contact
+Tianchuan Gao(tg11@iu.edu)<br>
+Jingwen Yan(jingyan@iu.edu)<br>
+Kwangsik Nho(knho@iu.edu)
